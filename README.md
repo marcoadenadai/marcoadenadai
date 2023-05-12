@@ -1,7 +1,7 @@
 👋 Hi, I’m Marco 🌱 
 - 🔭 I'm currently working on Payment Terminals and Terminal Management System.
 - 💻 I'm interested in Data Science, SW/HW Development, Network/Communications, Embedded Devices, Operating Systems, Reverse Engineering, and Game Development.
-- 🌱 I’m currently learning Cyber Security, Data Science and Android Devlopment.
+- 🌱 I’m currently learning Cyber Security, Data Science and Android Development.
 
 [![LinkedIn](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/linkedin.svg)](https://linkedin.com/in/marcoadenadai) 
 [![PayPal](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/paypal.svg)](https://paypal.me/marcoadenadai) 
