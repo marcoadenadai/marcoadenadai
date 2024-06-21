@@ -1,12 +1,8 @@
 # Marco De Nadai
 
-Currently working on Payment Terminals and Terminal Management System.
+Specialist in Terminal Management Systems within the South America Solutions Team, currently working on Payment Terminals and Terminal Management Systems. Committed to effective problem-solving.
 
 [![LinkedIn](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/linkedin.svg)](https://linkedin.com/in/marcoadenadai) 
-
-Dedicated to problem-solving. 
-
-Enthusiastic about leveraging technological innovations to elevate the quality of life for individuals, I am driven by the conviction that through creative and impactful technological solutions, we can authentically and positively transform people's lives.
 
 ![C](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/c.svg) ![C++](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/cpp.svg) ![Java](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/java.svg) ![Kotlin](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/kotlin.svg) ![Python](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/python.svg) ![ANDROID](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/android.svg) ![LINUX](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/linux.svg) ![Arduino](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/arduino.svg) ![Raspberry Pi](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/raspberrypi.svg)
 
