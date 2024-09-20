@@ -1,6 +1,6 @@
 # Marco De Nadai
 
-Specialist in Terminal Management Systems within the South America Solutions Team, currently working on Payment Terminals and Terminal Management Systems. Committed to effective problem-solving.
+Currently working on Payment Terminals and Solutions. Committed to effective problem-solving.
 
 [![LinkedIn](https://raw.githubusercontent.com/marcoadenadai/marcoadenadai/main/linkedin.svg)](https://linkedin.com/in/marcoadenadai) 
 
